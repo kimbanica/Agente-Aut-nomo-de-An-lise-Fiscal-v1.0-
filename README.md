@@ -1,8 +1,4 @@
-Com certeza. Aqui está um `README.md` completo para o seu projeto, com o destaque obrigatório da Licença MIT no topo e no final, conforme solicitado.
 
-Você pode copiar e colar este conteúdo diretamente em um arquivo chamado `README.md`.
-
------
 
 # 🤖 Agente Autônomo de Análise Fiscal (v1.0)
 
